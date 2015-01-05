@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <body>
          <div type="notice_of_assessment">
-            <pb facs="tcp:039299_0000_10141CDB7AE4A900"/>
-            <pb facs="tcp:039299_0001_10141CDD2F4CF688" rendition="simple:additions"/>
+            <pb facs="unknown:039299_0000_10141CDB7AE4A900"/>
+            <pb facs="unknown:039299_0001_10141CDD2F4CF688"
+                rendition="simple:additions"/>
             <opener>
                <dateline>
                   <hi>Province of the</hi> Maſ<g ref="char:EOLhyphen"/>ſachuſetts-Bay. <hi>ſs.</hi>
